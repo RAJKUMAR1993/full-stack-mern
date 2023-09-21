@@ -1,0 +1,25 @@
+body {
+  font-family: "Roboto", "sans-serif";
+}
+.sub-title {
+  font-size: 24px;
+  font-family: Roboto !important;
+}
+.desc {
+  font-size: 16px;
+  font-family: Roboto !important;
+}
+.custom-dropdown .dropdown-toggle::after {
+  font-family: "Font Awesome 5 Free"; /* Specify the Font Awesome font-family */
+  font-weight: 900; /* Adjust the font weight if needed */
+  border-top: 0;
+  vertical-align: middle;
+}
+.badge-sm {
+  min-width: 1.8em;
+  padding: 0.25em !important;
+  margin-left: 0.1em;
+  margin-right: 0.1em;
+  color: white !important;
+  cursor: pointer;
+}

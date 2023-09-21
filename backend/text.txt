@@ -1,0 +1,34 @@
+{
+    "name":"Mobile",
+    "description":"good  on working ",
+    "price": 3000,
+    "stock": 10,
+    "category":"Mobile",
+    "images" :[
+  {
+            "public_id" : "googlePixel.com",
+            "url" : "googlePixel.com"
+        }
+    
+    ]
+      
+}
+
+
+{
+    "name":"Mobile",
+    "description":"good  on working ",
+    "price": 3000,
+    "stock": 10,
+    "category":"Mobile",
+    "brand" :"googlePixel 7 pro",
+    "color" : "black",
+    "images" :[
+  {
+            "public_id" : "googlePixel.com",
+            "url" : "https://lh3.googleusercontent.com/00S6UssxiLFDdxgzU3MSLdXzxvfo6BrYDPaQPBFWxR8An2x1CHMjuo8cE1sa-ERO5zDgbt4agMzBqOMqLE3qs2H7JtSaGlppfwk=rw-e365-w1050"
+        }
+    
+    ]
+      
+}
